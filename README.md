@@ -10,6 +10,18 @@ This is a Laravel-based web application for a restaurant that allows users to vi
 
 ---
 
+## Table of Contents
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Steps to Install](#steps-to-install)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [License](#license)
+
+---
+
 ## Features
 
 - **Menu**: View a list of all menu items offered by the restaurant.
@@ -32,16 +44,14 @@ Here are some screenshots of the project:
 
 ---
 
+## Installation
+
 ### Prerequisites
 
 - PHP >= 7.4
 - Composer
 - MySQL or MariaDB
 - Laravel >= 8.x
-
----
-
-## Installation
 
 ### Steps to Install
 
