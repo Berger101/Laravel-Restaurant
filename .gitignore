@@ -1,0 +1,29 @@
+# Laravel directories and files
+/vendor/
+node_modules/
+public/storage
+storage/*
+!storage/app/public
+/.env
+.env.*
+/.idea
+/.vscode
+
+# Laravel debugging
+/.phpunit.result.cache
+/storage/debugbar
+/storage/cache/*
+
+# Laravel IDE helper files
+/_ide_helper.php
+/_ide_helper_models.php
+/_ide_helper.phpstorm.meta.php
+
+# Log files
+/logs
+*.log
+
+# Backup files
+*.bak
+*.swp
+*.swo
